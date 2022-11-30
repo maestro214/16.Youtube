@@ -1,6 +1,6 @@
-# Aop-part4-chapter01 - Youtube
+# Youtube
 
-# 목차
+## 목차
 
 1. 인트로 (완성앱 & 구현 기능 소개)
 2. MotionLayout 이용하여 화면 전환 UI 구성하기 (1)
@@ -14,18 +14,7 @@
 10. 아웃트로
 
 
-
-# 결과화면
-
-![1](./screenshot/1.png)
-
-
-
-![2](./screenshot/2.png)
-
-
-
-# 이 챕터를 통해 배우는 것
+## 이 챕터를 통해 배우는 것
 
 - **MotionLayout** 사용하기
 - **Exoplayer** 사용하기
@@ -48,6 +37,20 @@
 - 오디오 및 동영상 재생 관련 강력한 기능들 포함
 - 유튜브 앱에서 사용하는 라이브러리
 - https://exoplayer.dev/hello-world.html
+
+
+
+## 결과화면
+
+![1](./screenshot/1.png)
+
+
+
+![2](./screenshot/2.png)
+
+
+
+
 
 
 
