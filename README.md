@@ -1,17 +1,6 @@
 # Youtube
 
-## 목차
 
-1. 인트로 (완성앱 & 구현 기능 소개)
-2. MotionLayout 이용하여 화면 전환 UI 구성하기 (1)
-3. MotionLayout 이용하여 화면 전환 UI 구성하기 (2)
-4. 영상 목록 API 만들기
-5. 영상 목록 기본 구조 만들기
-6. MotionLayout 과 RecyclerView 사이에 스크롤 가능하게 하기(1)
-7. )MotionLayout 과 RecyclerView 사이에 스크롤 가능하게 하기(2)
-8. ExoPlayer를 이용하여 동영상 재생하기
-9. 마무리하기
-10. 아웃트로
 
 
 ## 이 챕터를 통해 배운 것
